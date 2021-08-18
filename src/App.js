@@ -5,7 +5,13 @@ var emojiDictionary = {
   "🌽": "maize corn",
   "🥑": "avocado",
   "🥦": "broccoli",
-  "🥒": "cucumber"
+  "🥒": "cucumber",
+  "🌶": "chilli",
+  "🥕": "carrot",
+  "🥔": "potato",
+  "🧅": "garlic",
+  "🧄": "onion",
+  "🌰": "turnip"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
